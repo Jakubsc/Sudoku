@@ -1,5 +1,5 @@
 # Sudoku
-this program can solve a sudoku and also allow a player to play. When you press spacebar it will show how the algorithm finds solution.
+this program can solve a sudoku and also allow a player to play. When you press spacebar it will show how the algorithm finds a solution.
 To run this program you need to have pygame installed.
 ```
 $ pip install pygame
